@@ -1,0 +1,6 @@
+# Wifipayload.bat
+
+-This will gather and send all the wifi passwords saved in the victims pc.
+-You have to go https://collect2.com or https://webhook.site to generate the links.
+-After generate you have to overwrite the typed link.
+-Further querry +918249587552
