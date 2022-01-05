@@ -4,3 +4,14 @@
 -You have to go https://collect2.com or https://webhook.site to generate the links.
 -After generate you have to overwrite the typed link.
 -Further querry +918249587552
+
+# Notepad Flood.bat
+
+-This will open infinite notepad.
+-To stop this delete the .bat file or reboot your computer.
+
+# Create 1000 folder.bat
+
+-It will create actually infinite empty folders.
+-Slowsdown the computer.
+-Reboot or delete .bat file to stop the operation.
