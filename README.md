@@ -10,5 +10,6 @@ Only works on windows OS.
 2. .bat to exe converter: https://www.battoexeconverter.com/
 3. You can also use pico ducky and attinity85 with .bat file.
 #Punish the evil one.
+Made by @subhranshusekharchoudhury
+
 ![302536_bat_file_icon](https://user-images.githubusercontent.com/63858190/148227957-b59c3381-6e78-46f4-a431-853948ccad80.png)
-made by @subhranshusekharchoudhury
