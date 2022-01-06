@@ -15,3 +15,8 @@
 -It will create actually infinite empty folders.
 -Slowsdown the computer.
 -Reboot or delete .bat file to stop the operation.
+
+# Delete specific file.
+
+-Just paste the path of file you want to delete.
+-*.bat this will delete all the .bat file in the file.
