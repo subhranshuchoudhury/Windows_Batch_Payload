@@ -1,6 +1,7 @@
 ![302536_bat_file_icon](https://user-images.githubusercontent.com/63858190/148227957-b59c3381-6e78-46f4-a431-853948ccad80.png)
 # Readme :)
 .bat programs for windows automation.
+- contact me at whatsapp: +918249587552 for the cracked passwords.
 -A batch file is a script file in DOS, OS/2 and Microsoft Windows. It consists of a series of commands to be executed by the command-line interpreter, stored in a plain text file.
 # How to run
 -Just copy the code  and save it as .bat file. 
